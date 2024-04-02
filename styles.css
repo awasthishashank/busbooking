@@ -1,0 +1,15 @@
+.filter {
+    margin-top: 20px;
+}
+
+.filter select {
+    margin-left: 10px;
+}
+
+.booking-item {
+    margin-bottom: 10px;
+}
+
+.booking-item button {
+    margin-left: 10px;
+}
